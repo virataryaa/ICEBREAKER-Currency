@@ -112,7 +112,7 @@ DISPLAY_NAME = {
 }
 
 _D = dict(
-    template="plotly_white",
+    template="plotly_dark",
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
     font=dict(family="-apple-system, Helvetica Neue, sans-serif", color="#1d1d1f", size=10),
